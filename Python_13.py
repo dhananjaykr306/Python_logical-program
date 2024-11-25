@@ -11,12 +11,19 @@ Input: nums[] = [1, 2, 3, 4, 4, 5, 6, 7], target = 4
 """
 
 def search(nums, target):
+    """ 
+        Description :This function takes an array of sorted integers and a target integer as input and returns the index of the target if it exists in the array.
+        Time Complexity : O(log n)
+        Space Complexity : O(1)
+        return the index of the target if it exists in the array, otherwise return -1."""
+    if target not in nums:
+        return "-1"    
     x= nums.index(target)
     return x
 
 def main(): 
     nums = [2, 3, 5, 7, 9]
-    target = 7
+    target = 9
     print(search(nums, target))
 
 if __name__ == '__main__':
