@@ -5,6 +5,13 @@ output: 321
 Input: -4576
 output: -6754
 """
+'''
+    @Author: Dhananjay Kumar
+    @Date: 23-11-2024
+    @Last Modified by: Dhananjay Kumar
+    @Last Modified time: 23-11-2024
+    @Title: Python program to reverse an integer.
+'''
 def reverse(n):
     """
     Description: This function takes an integer as input and returns the reverse of the integer.
