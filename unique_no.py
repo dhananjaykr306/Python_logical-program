@@ -6,15 +6,12 @@ Input: nums = [2,2,1]
 Output: 1
 Input: nums = [4,1,2,1,2]
 Output: 4
-"""
-
-'''
     @Author: Dhananjay Kumar
     @Date: 23-11-2024
     @Last Modified by: Dhananjay Kumar
     @Last Modified time: 23-11-2024
     @Title: Python program to find the single number that appears only once in an array.
-'''
+"""
 
 def single_number(nums):
     """
