@@ -2,14 +2,12 @@
 3.For a given sentence, return the average word length.
 Note: Remember to remove punctuation first.
 sentence1 = "Hi all, my name is Tom...I am originally from Australia."
-"""
-'''
     @Author: Dhananjay Kumar
     @Date: 23-11-2024
     @Last Modified by: Dhananjay Kumar
     @Last Modified time: 23-11-2024
     @Title: Python program to find the average length of words in a sentence.
-'''
+"""
 
 def average_word_length(sentence):
     """
