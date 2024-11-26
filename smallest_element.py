@@ -7,9 +7,6 @@ Explanation: The 3rd smallest array element is 4
 Input : [1, 5, 2, 2, 2, 5, 5, 4], k = 5
 Output: 4
 Explanation: The 5th smallest array element is 4
-"""
-
-"""
     @Author: Dhananjay Kumar
     @Date: 25-11-2024
     @Last Modified by: Dhananjay Kumar
