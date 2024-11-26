@@ -26,9 +26,7 @@ Explanation:
 
 Input: n = 2
 Output: false
-"""
 
-"""
     @Author: Dhananjay Kumar
     @Date: 25-11-2024
     @Last Modified by: Dhananjay Kumar
