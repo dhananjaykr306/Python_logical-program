@@ -7,9 +7,6 @@ Output: true
 Explanation: 25 is a perfect square since it can be written as 5×5.
 Input: n = 20
 Output: false
-"""
-
-'''
     @Author: Dhananjay Kumar
     @Date: 25-11-2024
     @Last Modified by: Dhananjay Kumar
